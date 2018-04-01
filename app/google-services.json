@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "615218537698",
+    "firebase_url": "https://hafizafandi1202150030modul62.firebaseio.com",
+    "project_id": "hafizafandi1202150030modul62",
+    "storage_bucket": "hafizafandi1202150030modul62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615218537698:android:13853267171d8d13",
+        "android_client_info": {
+          "package_name": "com.example.hp.hafizafandi_1202150030_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615218537698-26totfg24qmgnbgbnt18mg5tgs4uav7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.hafizafandi_1202150030_modul6",
+            "certificate_hash": "c4bdcf85db1df45c96094440c605a39ddc7873c4"
+          }
+        },
+        {
+          "client_id": "615218537698-6iqb2dlpi5nmjhgal4vvdb23vpntkibn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6elAlOq2gsjIMtpwTH3Am58NJW9BUktM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615218537698-6iqb2dlpi5nmjhgal4vvdb23vpntkibn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
